@@ -10,6 +10,10 @@
     color: white;
 }
 
+.txt-blk{
+    color:black;
+}
+
 .nav-link{
 color:white;
 }
@@ -44,16 +48,37 @@ img{
     width:10%;
     height:1px;
     color:black;
+}
+
+.border-white{
     border: 2px solid white;
+
+}
+
+.border-black{
+    border: 2px solid black;
+
 }
 
 .bi{
     padding:30px;
     font-size:20px;
-    color:white;
     position: relative;
     bottom:50px;
 }
+
+.btn-send{
+    background-color:#1abc9c;
+    border: 1px solid white;
+    color:white;
+    border-radius: 5px;
+    font-size: 1.3rem;
+}
+
+
+
+
+
 
 
 
