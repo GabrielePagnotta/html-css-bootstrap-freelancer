@@ -14,6 +14,11 @@
     color:black;
 }
 
+#txt-green{
+    color: green;
+    margin-left: 3px;
+}
+
 .nav-link{
 color:white;
 }
@@ -73,6 +78,28 @@ img{
     color:white;
     border-radius: 5px;
     font-size: 1.3rem;
+    padding:10px;
+}
+
+.bi-facebook{
+    color:white;
+    font-size: 20px;
+    
+}
+
+.bi-google{
+    font-size: 20px;
+    color:white;
+}
+
+.bi-twitter{
+    color:white;
+    font-size:20px;
+}
+
+.bi-linkedin{
+    color:white;
+    font-size:20px;
 }
 
 
