@@ -29,6 +29,31 @@ color:white;
 
 img{
     width:100%;
-    display: inline-block;
     margin:0 auto;
 }
+
+.bg-green{
+    background-color: #1abc9c;
+}
+
+.avatar{
+    width:20%;
+}
+
+.line{
+    width:10%;
+    height:1px;
+    color:black;
+    border: 2px solid white;
+}
+
+.bi{
+    padding:30px;
+    font-size:20px;
+    color:white;
+    position: relative;
+    bottom:50px;
+}
+
+
+
